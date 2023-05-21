@@ -2,6 +2,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! welcome to Project5 GitHub remote directory" );
+        System.out.println( "Hello World! welcome to Project5 GitHub remote directory plus correction from local" );
     }
 }
